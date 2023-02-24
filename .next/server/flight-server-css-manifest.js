@@ -1,0 +1,10 @@
+self.__RSC_CSS_MANIFEST={
+  "__entry_css_mods__": {
+    "C:\\NEXT\\DiceGame\\gameapp\\app\\page": [
+      "C:\\NEXT\\DiceGame\\gameapp\\app\\globals.css"
+    ]
+  },
+  "C:\\NEXT\\DiceGame\\gameapp\\app\\layout.tsx": [
+    "C:\\NEXT\\DiceGame\\gameapp\\app\\globals.css"
+  ]
+}
